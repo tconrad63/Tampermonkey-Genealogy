@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ancestry.com - Nuke Ad Banner
+// @name         Ancestry - Nuke Ad Banner
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Completely removes the ad banner and reclaims the full inch of space
